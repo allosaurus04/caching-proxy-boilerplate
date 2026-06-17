@@ -1,6 +1,6 @@
-# KV Cache Proxy
+# Caching Proxy Boilerplate
 
-A minimal caching proxy server in two ways either NodeCache library or Redis. Pick either folder, and `npm install`.
+A minimal KV caching proxy server in two ways either NodeCache library or Redis. Pick either folder, and `npm install`.
 
 ```
 kv-cache-proxy/
