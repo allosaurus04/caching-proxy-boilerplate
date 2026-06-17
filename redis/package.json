@@ -1,0 +1,14 @@
+{
+  "name": "kv-cache-proxy-redis",
+  "version": "1.0.0",
+  "description": "Caching proxy using Redis with LRU eviction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "ioredis": "^5.3.0"
+  }
+}
